@@ -3,10 +3,10 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-09-09 Thu 09:15 -->
+<!-- 2021-09-09 Thu 13:17 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>MZ | Aleph</title>
+<title>Mohan Zamana</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="MKP: nom de plume: MZ/Mohan Zamana/Aleph/Zephyr" />
 <style type="text/css">
@@ -193,6 +193,9 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
+<style type="text/css">
+/* * Cascading stylesheet for GNU Emacs org mode * Nicolas P. Rougier - September 2020 * Released under a Creative Commons CC-BY 4.0 licence */ body {    font-family: "Roboto Mono", monospace;    font-size: 14px;    font-weight: 300;    color:  rgba(51, 51, 51, 1.00);    line-height: 1.4em;    font-weight: light;    counter-reset: section;    counter-reset: toc-section;    counter-increment: toc-section;}a, a:visited {    text-decoration: none;    color: rgba(48,63,159, 1.00);}.org-bold {    font-weight: 400;}i, i a {    color: #999999;    font-style: normal;}.org-italic, .org-org-meta-line {    color: rgba(48,63,159, 0.75);    font-style: normal;}.org-face-salient {    font-weight: 400;}/* Blinking cursor when strike-through */.custom { animation: blinker 1s linear infinite; }@keyframes blinker { 50% { opacity: 0; } }/* --- Side notes --- */div.side-note::before {    content: "Note";    color: rgba(0,0,0,.75);    font-weight: 400;}div.side-note {    color: rgba(0,0,0,.5);    float: left;    font-size: .85em;    line-height: 1.25em;    margin-left: -24em;    width: 20em;}/* --- Table of contents --- */#table-of-contents {    padding-top: 0em;    margin-top: 0em;    text-transform: uppercase;}#table-of-contents ul {    padding: 0;    font-weight: 400;    list-style: none;    counter-reset: list 0;}#table-of-contents ul ul {    padding-left:0em;    font-weight: 300;    font-size: 90%;    line-height: 1.5em;    margin-top: 0em;    margin-bottom: 1em;    padding-left: 2em;}#table-of-contents h2:before {    content: "";    counter-reset: section;}#table-of-contents ul li {    vertical-align: top;    display: inline-block;    width: 32%;}#table-of-contents ul li:before {    display: inline-block;    counter-increment: list;    content: counters(list, ".") ".";    width: 2.0em;    margin-left: -2.0em;    text-align: right;    text-transform: uppercase;    color:#2255bb;}#table-of-contents ul li ul,#table-of-contents ul li ul li {    display: static;    width: 100%;    padding-left: 0;    line-height: 1.35em;}#table-of-contents ul li ul li:before {    content: ""}#table-of-contents h2 {    font-size: 1em;    font-weight: 400;    padding-top: 5em;}#table-of-contents h2:before {    content: "ʘ";}blockquote {    color: #999999;    padding-top: 0;    margin-left: 1em;    padding-left: 1em;    border-left: 3px solid #cccccc;}ul.org-ul {    padding-left: 0}ul.org-ul li  {    list-style-type: none;    margin-bottom: .5em;}ul.org-ul li p {    display: inline-block;    margin-top: 0em;    margin-bottom: 0em;}ul.org-ul li::before {    display: inline-block;    content: "ʘ";    color: #999999;    width: 1em;    margin-left: -1em;}ol.org-ol {    padding-left: 0;    margin-left: 2em;    list-style: none;    counter-reset: li;}.org-ol li  {    counter-increment: li;    margin-bottom: .25em;}.org-ol li::before {    content: counter(li) ". ";    color: #999999;    display: inline-block;    width: 2em;    margin-left: -2em;}#content, #postamble {    margin: 0 auto;    max-width: 920px;    margin-top: 2.5%;    margin-bottom: 2.5%;}#postamble {/*    border-top: 1px solid #999999; */    padding-top: 1.5em;}#postamble p, #postamble a {    color: #999999;    line-height: 1.25em;    margin: 0;    text-align: right;}h1.title {    font-size: 1.5em;    margin-top: 4em;    margin-bottom: 0em;    font-weight: 400;    text-align: left;}span.subtitle {    display: inline-block;    margin-top: .25em;    font-size: 74.5%;    font-weight: 300;    color: #999999;}h3 { padding-top: .5em; }h1, h2, h3, h4 {    color: black;    font-size: 1em;    font-weight: 400;    /* font-variant: all-small-caps; */    text-transform: uppercase;}h2 { padding-top: 5em; }h3 { padding-top: 3em; }body {  counter-reset: section;}h2 {  counter-reset: subsection;}h2::before {    color: #cccccc;    float: left;    text-align: right;    font-weight: 300;    width: 7.5em;    margin-left: -8.0em;    counter-increment: section;    content: "Chapter " counter(section) " ";}h3::before {    color: #cccccc;    float: left;    text-align: right;    font-weight: 300;    width: 2.5em;    margin-left: -3.0em;    counter-increment: subsection;    content: counter(section) "." counter(subsection) " ";}code {    background-color: #f9f9f9;    font-family: "Roboto Mono", sans-serif;    font-weight: 400;}pre::before {    color: #cccccc;    float: left;    text-align: right;    font-weight: 300;    width: 3.0em;    margin-left: -4.25em;    font-variant: small-caps;    content: "";}pre.src-lisp::before { content: "lisp"; }pre.src-org::before { content: "org"; }pre {    color: #00008b;    background-color: #fbfbfb;    overflow: auto;    margin: 0em;    padding: 0.25em;    padding-left: 0.5em;    line-height: 1.35em;    font-family: "Roboto Mono", sans-serif;    font-weight: 300;    border-left: 2px dotted #00008b;}pre.src {    position: relative;    overflow: visible;}/* --- Code folding --- */details {    color: rgba(48,63,159, 1.00);    background: #fbfbfb;    border: 1px solid rgba(48,63,159, 1.00);    border-radius: 3px;    padding:  0.25em;    margin-bottom: 1.0em;}details pre {    border: 0;}details pre.src-lisp::before { content: ""; }summary {    outline: 0;    color: rgba(48,63,159, 1.00);}summary::after {    font-size: 0.85em;    color: rgba(48,63,159, 0.25);    display: inline-block;    float: right;    content: "Click to fold/unfold";    padding-right:  0.5em;}/* --- Table --- */table { min-width: 100%; }table, tbody, td, tr, th, colgroup, thead {    border: 0;/*    padding: 0;*/}table {    margin-top: 1em;}thead {    border-bottom: 1px dashed black;}th {    text-align: left;    font-weight: 400;    padding: 0;    margin-bottom: 0.25em;    padding-bottom: 0.25em;}td { padding: 0; }tr:nth-child(even) {background: #f9f9f9;}tr:nth-child(odd) {background: #ffffff;}tbody {/* border-bottom: 1px solid black; */}/* --- Description list --- */dd {    margin-top: 0.25em;    margin-bottom: 0.50em;}/* --- Back links in header --- */div.back a {    float: right;    font-weight: 300;    color: #cccccc;    font-variant: small-caps;    margin-top: -2.5em;}/* h2 { border-bottom: .5px solid #999999; } */
+</style>
 <script type="text/javascript">
 // @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
@@ -218,12 +221,100 @@
 </head>
 <body>
 <div id="content">
-<h1 class="title">MZ | Aleph</h1>
+<h1 class="title">Mohan Zamana
+<br />
+<span class="subtitle">Mohit Patel | MZ | Aleph | Zephyr</span>
+</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgdd4e580">501st Night by Zephyr</a></li>
+<li><a href="#orge93913c">Borgesian Evenings by MZ</a></li>
+</ul>
+</div>
+</div>
 
+
+<div id="outline-container-orgdd4e580" class="outline-2">
+<h2 id="orgdd4e580">501st Night by Zephyr</h2>
+<div class="outline-text-2" id="text-orgdd4e580">
+<p>
+Many years ago (some say before the
+first copy was published) an
+unauthorised copy of 1001 Nights
+was found in Herat. It traveled
+west through the desert.
+A holy man washed it with
+zam zam water. It was then lost,
+buried under the great dunes.
+When the winds came howling
+in the great storm
+(during the life of Ibn Sina),
+it resurfaced. A great philosopher
+of the future read it.
+We do not know if this
+copy matched the authorised
+copy of 1001 Nights.
+Somewhere near the middle
+of the book Scheherazade starts
+narrating a story.
+This story begins at the first
+story of the book.
+Within this story Scheherazade
+reaches where she is and
+starts narrating a story.
+Some say she never stopped narrating.
+Some say our future philosopher
+never stopped reading.<br />
+~501st night that is only known to Zephyr.
+</p>
+</div>
+</div>
+
+<div id="outline-container-orge93913c" class="outline-2">
+<h2 id="orge93913c">Borgesian Evenings by MZ</h2>
+<div class="outline-text-2" id="text-orge93913c">
+<p>
+At midnight noon<br />
+Every 42 years<br />
+On the 4th day<br />
+after the new moon<br />
+There comes a golem<br />
+None expect one<br />
+Knows what it is<br />
+It appears at the window<br />
+Deep in the catacombs<br />
+Beneath the dark streets<br />
+And the abominable cities<br />
+A creature yet unformed<br />
+Made of the vile<br />
+And maleficience<br />
+Of the saints above<br />
+Born to the treacherous<br />
+Evil ghouls<br />
+Heaven offending<br />
+Mephistopheles manifests<br />
+Baudelaire rejoices<br />
+His flower blooms<br />
+You enter<br />
+The dark chambers<br />
+He looks at you<br />
+Spewing revenge<br />
+Hateful, loathsome<br />
+Lock step<br />
+Lock step<br />
+Deranged are you<br />
+Delirious is he<br />
+One and the same<br />
+Are thee.<br />
+</p>
+</div>
+</div>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: MKP: nom de plume: MZ/Mohan Zamana/Aleph/Zephyr</p>
-<p class="date">Created: 2021-09-09 Thu 09:15</p>
+<p class="date">Created: 2021-09-09 Thu 13:17</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
